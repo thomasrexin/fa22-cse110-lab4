@@ -1,0 +1,3 @@
+# DevTools Part 2:
+1. The bug was that the variable num1 and num2 were getting string values as input so that when result is set to be num1 plus num2 it would be equal to the string of the concatenation of the two numbers.
+2. I would fix the bug by converting num1 and num2 to their number conversions after the input is gotten by the website so that result will correctly hold the sum of the two numbers after num1 is added to num2. See fix.png for a screenshot of my fix.
